@@ -1,0 +1,4 @@
+Sum: 25 | Data: 3 7 15 
+Sum: 39 | Data: 1 4 5 8 9 12 
+Sum: 80 | Data: 2 10 23 45 
+Sum: 83 | Data: 1 2 6 9 11 20 34 

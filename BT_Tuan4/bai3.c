@@ -9,7 +9,7 @@
 #define MAX_ARRAYS 10
 #define MAX_ELEM 50
 
-// 1. Cấu trúc struct trong Shared Memory để lưu trữ dãy số
+// Cấu trúc struct trong Shared Memory để lưu trữ dãy số
 typedef struct {
     int count;          // Số lượng phần tử trong dãy
     int data[MAX_ELEM]; // Mảng chứa các phần tử
